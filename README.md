@@ -1,5 +1,3 @@
-# testrepo
-firstdocument-github-handy
+# DISPLAY THE OUTPUT
+print("new Python file")
 
-
-It is a markdown FILE in the repository.
